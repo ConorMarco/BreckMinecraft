@@ -11,6 +11,21 @@ Nope! Just follow the guide below to easily install the Breckinridge modpack and
 
 # Installation
 
+First, install the [Twitch Launcher](https://www.twitch.tv/downloads). (You can use other launchers such as MultiMC, but if you are doing that then I assume you are technical enough that you don't need my help.)
+
+When you open the Twitch app, go to the Mods tab. If you have Minecraft installed, it should detect that and display it in that tab.
+
+Once you are there, I highly recommend **changing the amount of RAM that is allocated to Minecraft**. For historical reasons the default is only 2GB, but at least **4GB is recommended** for good performance. Access your settings by selecting the small down arrow in the top-right, then select the `Settings` option with the gear icon. Next, select the `Minecraft` tab on the Settings page and locate the `Allocated Memory` slider under `Java Settings`. Adjust the slider to your desired memory amount (remember we recommend at least 4096MB).
+
+Finally, we will install the Breck modpack. You should be able to `Browse Modpacks` and search for `Breck Pack Please Ignore` by `comarn`. Simply click `install` and it will appear in `My Modpacks`, allowing you to hit `play`!
+
+## Server Details
+
+TBD
+
+## Questions
+
+If you have any questions about installation, please ask them in the minecraft channel on the Discord.
 
 # Useful Server Features
 
@@ -48,7 +63,7 @@ Hold `g` (configurable) to mine all blocks of a certain type at once, e.g. a tre
 
 # Server Rules
 
-We're all Breckieshere, just be reasonable. Don't grief people, don't be mean, don't make a giant lag-factory. We spent some time setting this up for y'all and I'm going to ~~sneak into your house to slap you~~ be *really annoyed* if I have to deal with people not acting like adults.
+We're all Breckies here, just be reasonable. Don't grief people, don't be mean, don't make a giant lag-factory. We spent some time setting this up for y'all and I'm going to ~~sneak into your house to slap you~~ be *really annoyed* if I have to deal with people not acting like adults.
 
 # Credits
 
