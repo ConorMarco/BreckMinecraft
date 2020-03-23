@@ -11,7 +11,7 @@ Nope! Just follow the guide below to easily install the Breckinridge modpack and
 
 # Installation
 
-First, install the [Twitch Launcher](https://www.twitch.tv/downloads). (You can use other launchers such as MultiMC, but if you are doing that then I assume you are technical enough that you don't need my help.)
+First, make sure you have the **Java edition** of Minecaft installed. Then, install the [Twitch Launcher](https://www.twitch.tv/downloads). (You can use other launchers such as MultiMC, but if you are doing that then I assume you are technical enough that you don't need my help.)
 
 When you open the Twitch app, go to the Mods tab. If you have Minecraft installed, it should detect that and display it in that tab.
 
