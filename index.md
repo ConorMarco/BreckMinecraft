@@ -21,7 +21,7 @@ Finally, we will install the Breck modpack. You should be able to `Browse Modpac
 
 ## Server Details
 
-TBD
+Address: 54.39.218.73:25566
 
 ## Questions
 
