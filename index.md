@@ -19,6 +19,12 @@ Once you are there, I highly recommend **changing the amount of RAM that is allo
 
 Finally, we will install the Breck modpack. You should be able to `Browse Modpacks` and search for `Breck Pack Please Ignore` by `comarn`. Simply click `install` and it will appear in `My Modpacks`, allowing you to hit `play`!
 
+## Problems Launching? Workaround
+
+A couple people had trouble launching the pack due to an incompatibility on certain computers with the newest version of Minecarft. Christos found a workaround: manually install forge and launch the game. I'll explain below, but there's a video here to watch someone do the process with a different pack: https://www.youtube.com/watch?v=kIUEK14_0s8
+
+Download the forge 31.1.25 installer from http://files.minecraftforge.net/. Install it to the default directory. Then, in the Twitch launcher on the pack, click the gear and hit Open Folder. Take a note of the current folder, then, go up the folder structure until you are in the Minecraft folder, then go to Install and launch minecraft.exe from there. Finally, in the launcher, make a new launcher profile by going to the installations tab and making a new profile. For the game directory, choose the folder that originally opened from Twitch. Then you should be able to launch the game.
+
 ## Server Details
 
 Address: 54.39.218.73:25566
