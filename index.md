@@ -15,7 +15,7 @@ First, make sure you have the **Java edition** of Minecaft installed. Then, inst
 
 When you open the Twitch app, go to the Mods tab. If you have Minecraft installed, it should detect that and display it in that tab.
 
-Once you are there, I highly recommend **changing the amount of RAM that is allocated to Minecraft**. For historical reasons the default is only 2GB, but at least **4GB is recommended** for good performance. Access your settings by selecting the small down arrow in the top-right, then select the `Settings` option with the gear icon. Next, select the `Minecraft` tab on the Settings page and locate the `Allocated Memory` slider under `Java Settings`. Adjust the slider to your desired memory amount (remember we recommend at least 4096MB).
+Once you are there, I highly recommend **changing the amount of RAM that is allocated to Minecraft**. For historical reasons the default is only 2GB, but at least **4GB is recommended** for good performance. Access your settings by hitting `ctrl+comma`. Next, select the `Minecraft` tab on the Settings page and locate the `Allocated Memory` slider under `Java Settings`. Adjust the slider to your desired memory amount (remember we recommend at least 4096MB).
 
 Finally, we will install the Breck modpack. You should be able to `Browse Modpacks` and search for `Breck Pack Please Ignore` by `comarn`. Simply click `install` and it will appear in `My Modpacks`, allowing you to hit `play`!
 
