@@ -8,7 +8,7 @@ Now, to spice things up a little, we're playing with a few *mods*. Yes, that's r
 
 First, make sure you have the **Java edition** of Minecaft installed, along with **Java 8**.
 
-Now, there are two ways to install the modpack. Either use the Twitch launcher, which is the "official" method but can be slow bloatware and doesn't work on Linux, or use MultiMC which is an open source alternative which runs faster but requires a little bit more effort to set up.
+Now, there are two ways to install the modpack. Either use the Twitch launcher, which is the "official" method but can be slow bloatware and doesn't work on Linux, or use MultiMC, an open source alternative which runs faster but requires a little bit more effort to set up.
 
 ## Twitch
 
@@ -20,7 +20,9 @@ Finally, we will install the modpack. You should be able to `Browse Modpacks` an
 
 ## MultiMC
 
-Download [MultiMC](https://multimc.org/#Download) and follow the installation instructions for your system. In the top left corner, hit `Add Instance`. Name the instance and then select `import from zip`. Now, in your browser, go to [this link which will download a zip version of the modpack.](https://www.curseforge.com/minecraft/modpacks/atm-3-lite/download/2756992) Finally, back in the new instance, select the downloaded zip file and you're good to lauch the profile (you may be prompted to login to your Minecraft account first).
+Download [MultiMC](https://multimc.org/#Download) and follow the installation instructions for your system. In the top bar, click `Settings`, then go to the `Java` tab on the right. Change the minimum and maximum memory allocation to the desired values - once again, we **recommend at least 4GB**.  Close the settings.
+
+In the top left corner, hit `Add Instance`. Name the instance and then select `import from zip`. Now, in your browser, go to [this link which will download a zip version of the modpack.](https://www.curseforge.com/minecraft/modpacks/atm-3-lite/download/2756992) Finally, back in the new instance, select the downloaded zip file and you're good to lauch the profile (you may be prompted to login to your Minecraft account first).
 
 ## Server Details
 
